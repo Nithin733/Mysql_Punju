@@ -17,3 +17,4 @@ delete from heroes where id=6;
 update heroes set name = "vijay devarakonda" where id = 6;
 SELECT  DISTINCT All_Time_flop_director,name
 FROM heroes;
+#on day and day tree mysql workbench has crashed fdgsgssgs
